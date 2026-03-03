@@ -1,0 +1,10 @@
+{
+  "name": "MeetingInsights AI",
+  "short_name": "MeetingInsights",
+  "start_url": "https://meetinginsightsai.lovable.app/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Temporary PWA manifest for Bubblewrap build.",
+  "icons": []
+}
